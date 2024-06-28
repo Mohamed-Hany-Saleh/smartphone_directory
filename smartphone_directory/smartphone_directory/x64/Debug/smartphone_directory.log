@@ -1,0 +1,3 @@
+﻿  smartphone_directory.cpp
+H:\Visual st\smartphone_directory\smartphone_directory\smartphone_directory.cpp(217,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  smartphone_directory.vcxproj -> H:\Visual st\smartphone_directory\x64\Debug\smartphone_directory.exe
