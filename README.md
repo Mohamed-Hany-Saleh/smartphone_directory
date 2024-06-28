@@ -26,7 +26,7 @@ The Smartphone Directory application is designed to help users efficiently manag
 
 ## File Structure
 
-```plaintext
+## plaintext
 |-- smartphone_directory.cpp
 Description of Files
 smartphone_directory.cpp: The main C++ file containing the logic for managing the smartphone directory.
